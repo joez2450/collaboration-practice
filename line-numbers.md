@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome.
 #### 10
-#### 11
+#### 11 Dogs are better than cats.
 #### 12
 #### 13
 #### 14
