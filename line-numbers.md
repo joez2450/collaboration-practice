@@ -6,7 +6,7 @@
 #### 6
 #### 7 I love sunny days!
 #### 8
-#### 9 Github is really good.
+#### 9 GitHub is really awesome.
 #### 10
 #### 11
 #### 12
